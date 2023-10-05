@@ -69,3 +69,15 @@ a {
   font-size: 16px;
 }
 
+.xsfontschool {
+  font-size: 18
+}
+
+.xsvertiline {
+  position: absolute;
+    border-left: 6px solid #f8c2f4;
+  height: 180px;
+  z-index: 2;
+  margin-top: 60px;
+  margin-left: 10px;
+}
