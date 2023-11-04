@@ -81,3 +81,7 @@ a {
   margin-top: 60px;
   margin-left: 10px;
 }
+
+.indent {
+  text-indent: 25px;
+}
